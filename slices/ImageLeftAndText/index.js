@@ -1,7 +1,7 @@
 import React from 'react'
 import { PrismicRichText } from '@prismicio/react'
 
-//Comment
+//Comment again
 
 const ImageLeftAndText = ({ slice }) => (
   <section className={slice.variation}>
