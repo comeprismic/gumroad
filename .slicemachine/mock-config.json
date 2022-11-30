@@ -1,0 +1,56 @@
+{
+  "_cts": {
+    "page": {},
+    "homepage": {},
+    "blogpost": {},
+    "product": {},
+    "header": {},
+    "footer": {}
+  },
+  "slices": {
+    "Hero": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "CtaSlice": {
+      "default": {
+        "primary": {
+          "link": {
+            "content": "https://gumroad.com/features"
+          },
+          "linklabel": {
+            "content": "Explore features"
+          },
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "ImageLeftAndText": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "TestNewScreenshots": {},
+    "New": {}
+  }
+}

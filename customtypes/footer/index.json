@@ -1,0 +1,33 @@
+{
+  "id": "footer",
+  "label": "Footer",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "menu_items": {
+        "type": "Group",
+        "config": {
+          "label": "menu items",
+          "fields": {
+            "menu_item_label": {
+              "type": "Text",
+              "config": {
+                "label": "menu item label",
+                "placeholder": ""
+              }
+            },
+            "menu_link": {
+              "type": "Link",
+              "config": {
+                "label": "menu link",
+                "placeholder": "",
+                "select": null
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Receive",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Ad fugiat magna labore elit anim aliquip Lorem fugiat ad ex.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "test_new_screenshots"
+  },
+  {
+    "variation": "imageLeft",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Aloud",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Id incididunt enim dolore amet ut aute amet minim dolor magna nostrud elit laboris consequat. Nisi occaecat fugiat esse.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "test_new_screenshots"
+  },
+  {
+    "variation": "imageTop",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Result",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Fugiat exercitation labore occaecat magna ullamco occaecat adipisicing adipisicing magna enim. Officia ex id culpa. Excepteur pariatur culpa aliqua dolor.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "test_new_screenshots"
+  },
+  {
+    "variation": "newVariation",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Smooth",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Ad adipisicing est amet dolore ipsum elit deserunt fugiat ullamco mollit occaecat pariatur adipisicing excepteur. Ipsum cupidatat aliquip velit laboris proident cillum excepteur ipsum ad consectetur laboris sunt. Proident consequat esse duis magna dolore dolor.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "test_new_screenshots"
+  }
+]

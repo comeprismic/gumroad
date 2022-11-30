@@ -1,0 +1,26 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Influence",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Qui sit cupidatat sint proident tempor amet laboris consequat labore adipisicing aliqua duis aliqua.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "new"
+  }
+]
