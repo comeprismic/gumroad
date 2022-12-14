@@ -2,7 +2,7 @@ import { PrismicRichText, SliceZone} from '@prismicio/react'
 import { createClient } from '../prismicio'
 import { components } from '../slices'
 import { Layout } from "../components/Layout";
-import { Head } from "next/head";
+import Head from "next/head";
 
 
 const Page = ({ homepage, header, footer }) => {
