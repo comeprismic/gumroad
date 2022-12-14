@@ -1,0 +1,101 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Pariatur nulla velit dolor duis enim in. Do dolore fugiat sint ea veniam exercitation nisi officia laboris ut esse et enim. Ea deserunt enim anim.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Eiusmod veniam irure non culpa enim reprehenderit duis. Amet proident ad anim labore officia duis velit ea. Minim magna eiusmod dolor.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117"
+      }
+    },
+    "slice_type": "image_left_and_text"
+  },
+  {
+    "variation": "imageRightAndText",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Giving",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Do esse magna non ullamco reprehenderit exercitation commodo irure fugiat velit fugiat. Nostrud cillum non proident cillum consectetur est sunt eiusmod aute dolor.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1576662712957-9c79ae1280f8"
+      }
+    },
+    "slice_type": "image_left_and_text"
+  },
+  {
+    "variation": "noImage",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Hidden",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Esse reprehenderit laboris eu id Lorem. Ex aliqua laboris est nostrud eu. Incididunt pariatur nostrud nisi aliqua duis ipsum.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1596195689404-24d8a8d1c6ea"
+      }
+    },
+    "slice_type": "image_left_and_text"
+  }
+]

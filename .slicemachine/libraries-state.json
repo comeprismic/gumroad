@@ -58,37 +58,7 @@
             }
           ]
         },
-        "mocks": {
-          "default": {
-            "variation": "default",
-            "version": "sktwi1xtmkfgx8626",
-            "items": [
-              {}
-            ],
-            "primary": {
-              "title": [
-                {
-                  "type": "heading1",
-                  "text": "Constantly",
-                  "spans": []
-                }
-              ],
-              "description": [
-                {
-                  "type": "paragraph",
-                  "text": "Dolor id mollit Lorem officia ea proident non.",
-                  "spans": []
-                }
-              ],
-              "link": {
-                "link_type": "Web",
-                "url": "https://gumroad.com/features"
-              },
-              "linklabel": "Explore features"
-            },
-            "slice_type": "cta_slice"
-          }
-        },
+        "mocks": {},
         "meta": {
           "fileName": "index",
           "extension": "js"
@@ -142,32 +112,7 @@
             }
           ]
         },
-        "mocks": {
-          "default": {
-            "variation": "default",
-            "version": "sktwi1xtmkfgx8626",
-            "items": [
-              {}
-            ],
-            "primary": {
-              "title": [
-                {
-                  "type": "heading1",
-                  "text": "Cookies",
-                  "spans": []
-                }
-              ],
-              "description": [
-                {
-                  "type": "paragraph",
-                  "text": "Dolor tempor excepteur velit deserunt eu aliquip eu. Fugiat velit laboris excepteur officia excepteur. Ullamco qui dolore quis consequat ex eu velit quis excepteur sunt excepteur dolor magna elit.",
-                  "spans": []
-                }
-              ]
-            },
-            "slice_type": "hero"
-          }
-        },
+        "mocks": {},
         "meta": {
           "fileName": "index",
           "extension": "js"
@@ -195,9 +140,10 @@
                 "title": {
                   "type": "StructuredText",
                   "config": {
-                    "single": "heading1",
                     "label": "Title",
-                    "placeholder": "This is where it all begins..."
+                    "placeholder": "This is where it all begins...",
+                    "allowTargetBlank": true,
+                    "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
                   }
                 },
                 "description": {
@@ -292,116 +238,16 @@
             }
           ]
         },
-        "mocks": {
-          "default": {
-            "variation": "default",
-            "version": "sktwi1xtmkfgx8626",
-            "items": [
-              {}
-            ],
-            "primary": {
-              "title": [
-                {
-                  "type": "heading1",
-                  "text": "Struck",
-                  "spans": []
-                }
-              ],
-              "description": [
-                {
-                  "type": "paragraph",
-                  "text": "Adipisicing incididunt cupidatat deserunt amet aliquip pariatur ullamco id officia proident culpa in.",
-                  "spans": []
-                }
-              ],
-              "image": {
-                "dimensions": {
-                  "width": 900,
-                  "height": 500
-                },
-                "alt": null,
-                "copyright": null,
-                "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa"
-              }
-            },
-            "slice_type": "image_left_and_text"
-          },
-          "imageRightAndText": {
-            "variation": "imageRightAndText",
-            "version": "sktwi1xtmkfgx8626",
-            "items": [
-              {}
-            ],
-            "primary": {
-              "title": [
-                {
-                  "type": "heading1",
-                  "text": "Elephant",
-                  "spans": []
-                }
-              ],
-              "description": [
-                {
-                  "type": "paragraph",
-                  "text": "Aliqua qui duis reprehenderit sunt pariatur eiusmod laborum cillum et eiusmod ea. Mollit elit consequat labore ex pariatur proident cillum sunt. Irure exercitation ad consectetur dolore deserunt dolore laborum nostrud commodo nisi laborum ea consequat dolore consequat.",
-                  "spans": []
-                }
-              ],
-              "image": {
-                "dimensions": {
-                  "width": 900,
-                  "height": 500
-                },
-                "alt": null,
-                "copyright": null,
-                "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db"
-              }
-            },
-            "slice_type": "image_left_and_text"
-          },
-          "noImage": {
-            "variation": "noImage",
-            "version": "sktwi1xtmkfgx8626",
-            "items": [
-              {}
-            ],
-            "primary": {
-              "title": [
-                {
-                  "type": "heading1",
-                  "text": "Leather",
-                  "spans": []
-                }
-              ],
-              "description": [
-                {
-                  "type": "paragraph",
-                  "text": "Ipsum in tempor qui ullamco amet nisi magna veniam voluptate commodo eu et enim culpa.",
-                  "spans": []
-                }
-              ],
-              "image": {
-                "dimensions": {
-                  "width": 900,
-                  "height": 500
-                },
-                "alt": null,
-                "copyright": null,
-                "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da"
-              }
-            },
-            "slice_type": "image_left_and_text"
-          }
-        },
+        "mocks": {},
         "meta": {
           "fileName": "index",
           "extension": "js"
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/comesabran/Documents/Développement/gumroad/slices/ImageLeftAndText/default/preview.png",
-            "width": 1876,
-            "height": 1152
+            "path": "/Users/comesabran/Documents/Développement/gumroad/.slicemachine/assets/slices/ImageLeftAndText/default/preview.png",
+            "width": 1280,
+            "height": 800
           },
           "imageRightAndText": {
             "path": "/Users/comesabran/Documents/Développement/gumroad/slices/ImageLeftAndText/imageRightAndText/preview.png",
@@ -455,32 +301,7 @@
             }
           ]
         },
-        "mocks": {
-          "default": {
-            "variation": "default",
-            "version": "sktwi1xtmkfgx8626",
-            "items": [
-              {}
-            ],
-            "primary": {
-              "title": [
-                {
-                  "type": "heading1",
-                  "text": "Influence",
-                  "spans": []
-                }
-              ],
-              "description": [
-                {
-                  "type": "paragraph",
-                  "text": "Qui sit cupidatat sint proident tempor amet laboris consequat labore adipisicing aliqua duis aliqua.",
-                  "spans": []
-                }
-              ]
-            },
-            "slice_type": "new"
-          }
-        },
+        "mocks": {},
         "meta": {
           "fileName": "index",
           "extension": "js"
@@ -608,104 +429,7 @@
             }
           ]
         },
-        "mocks": {
-          "default": {
-            "variation": "default",
-            "version": "sktwi1xtmkfgx8626",
-            "items": [
-              {}
-            ],
-            "primary": {
-              "title": [
-                {
-                  "type": "heading1",
-                  "text": "Receive",
-                  "spans": []
-                }
-              ],
-              "description": [
-                {
-                  "type": "paragraph",
-                  "text": "Ad fugiat magna labore elit anim aliquip Lorem fugiat ad ex.",
-                  "spans": []
-                }
-              ]
-            },
-            "slice_type": "test_new_screenshots"
-          },
-          "imageLeft": {
-            "variation": "imageLeft",
-            "version": "sktwi1xtmkfgx8626",
-            "items": [
-              {}
-            ],
-            "primary": {
-              "title": [
-                {
-                  "type": "heading1",
-                  "text": "Aloud",
-                  "spans": []
-                }
-              ],
-              "description": [
-                {
-                  "type": "paragraph",
-                  "text": "Id incididunt enim dolore amet ut aute amet minim dolor magna nostrud elit laboris consequat. Nisi occaecat fugiat esse.",
-                  "spans": []
-                }
-              ]
-            },
-            "slice_type": "test_new_screenshots"
-          },
-          "imageTop": {
-            "variation": "imageTop",
-            "version": "sktwi1xtmkfgx8626",
-            "items": [
-              {}
-            ],
-            "primary": {
-              "title": [
-                {
-                  "type": "heading1",
-                  "text": "Result",
-                  "spans": []
-                }
-              ],
-              "description": [
-                {
-                  "type": "paragraph",
-                  "text": "Fugiat exercitation labore occaecat magna ullamco occaecat adipisicing adipisicing magna enim. Officia ex id culpa. Excepteur pariatur culpa aliqua dolor.",
-                  "spans": []
-                }
-              ]
-            },
-            "slice_type": "test_new_screenshots"
-          },
-          "newVariation": {
-            "variation": "newVariation",
-            "version": "sktwi1xtmkfgx8626",
-            "items": [
-              {}
-            ],
-            "primary": {
-              "title": [
-                {
-                  "type": "heading1",
-                  "text": "Smooth",
-                  "spans": []
-                }
-              ],
-              "description": [
-                {
-                  "type": "paragraph",
-                  "text": "Ad adipisicing est amet dolore ipsum elit deserunt fugiat ullamco mollit occaecat pariatur adipisicing excepteur. Ipsum cupidatat aliquip velit laboris proident cillum excepteur ipsum ad consectetur laboris sunt. Proident consequat esse duis magna dolore dolor.",
-                  "spans": []
-                }
-              ]
-            },
-            "slice_type": "test_new_screenshots"
-          }
-        },
+        "mocks": {},
         "meta": {
           "fileName": "index",
           "extension": "js"
