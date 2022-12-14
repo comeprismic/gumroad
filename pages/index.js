@@ -9,8 +9,8 @@ const Page = ({ homepage, header, footer }) => {
   return (
     <section>
     <Head>
-    <span >{ homepage.data.seo_title }</span>
-    <span >{ homepage.data.seo_description }</span>
+    <title >{ homepage.data.seo_title }</title>
+    <meta name="description" content={ homepage.data.seo_description}></meta>
     </Head>
     <Layout nav={header} bottomnav={footer}>
     <PrismicRichText field={homepage.data.title} />
